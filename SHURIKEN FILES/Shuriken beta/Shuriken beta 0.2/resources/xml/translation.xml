@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<translation>
+	<menuMain language="Francais" id="MenuMainA">
+		Nouveau jeu
+	</menuMain>
+	<menuMain language="English" id="MenuMainA">
+		New game
+	</menuMain>
+	<menuMain language="Francais" id="MenuMainB">
+		Tableau des scores
+	</menuMain>
+	<menuMain language="English" id="MenuMainB">
+		Leaderboard
+	</menuMain>
+	<menuMain language="Francais" id="MenuMainC">
+		Langue : Francais
+	</menuMain>
+	<menuMain language="English" id="MenuMainC">
+		Language : English
+	</menuMain>
+	<menuMain language="Francais" id="MenuMainD">
+		Mode ecran
+	</menuMain>
+	<menuMain language="English" id="MenuMainD">
+		Screen mode
+	</menuMain>
+	<menuMain language="Francais" id="MenuMainE">
+		Quitter le jeu
+	</menuMain>
+	<menuMain language="English" id="MenuMainE">
+		Quit game
+	</menuMain>
+
+	<game language="Francais" id="life">
+		VIE
+	</game>
+	<game language="English" id="life">
+		LIFE
+	</game>
+	<game language="Francais" id="score">
+		SCORE
+	</game>
+	<game language="English" id="score">
+		SCORE
+	</game>
+	<game language="Francais" id="killed">
+		TUES
+	</game>
+	<game language="English" id="killed">
+		KILL
+	</game>
+	<game language="Francais" id="missed">
+		RATE
+	</game>
+	<game language="English" id="missed">
+		MISS
+	</game>
+	<game language="Francais" id="level">
+		NIVEAU
+	</game>
+	<game language="English" id="level">
+		LEVEL
+	</game>
+
+	<pause language="Francais" id="continue">
+		Continuer
+	</pause>
+	<pause language="English" id="continue">
+		Continue
+	</pause>
+	<pause language="Francais" id="quit">
+		Quitter
+	</pause>
+	<pause language="English" id="quit">
+		Exit
+	</pause>
+	
+	<other language="Francais" id="gameover">
+		FIN DU JEU !
+	</other>
+	<other language="English" id="gameover">
+		GAME OVER !
+	</other>
+	<other language="Francais" id="scorefinal">
+		SCORE FINAL
+	</other>
+	<other language="English" id="scorefinal">
+		FINAL SCORE
+	</other>
+	<other language="Francais" id="scoreEnter">
+		Veuillez saisir votre pseudo
+	</other>
+	<other language="English" id="scoreEnter">
+		Please enter your nickname
+	</other>
+	<other language="Francais" id="leaderboard">
+		Tableau des scores
+	</other>
+	<other language="English" id="leaderboard">
+		leaderboard
+	</other>
+	<other language="Francais" id="loading">
+		...chargement
+	</other>
+	<other language="English" id="loading">
+		...loading
+	</other>
+	<other language="Francais" id="connection">
+		erreur de connexion...
+	</other>
+	<other language="English" id="connection">
+		connection error...
+	</other>
+	<other language="Francais" id="powerup1">
+		Vie +1
+	</other>
+	<other language="English" id="powerup1">
+		Life +1
+	</other>
+	<other language="Francais" id="powerup2">
+		Degats x
+	</other>
+	<other language="English" id="powerup2">
+		Dommages x
+	</other>
+	<other language="Francais" id="powerup3">
+		Attaque Speciale
+	</other>
+	<other language="English" id="powerup3">
+		Special Attack
+	</other>
+</translation>

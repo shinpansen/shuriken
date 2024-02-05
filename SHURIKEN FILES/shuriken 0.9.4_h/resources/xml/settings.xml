@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<settings>
+	<option type="language">
+		English
+	</option>
+	<option type="volume">
+		4
+	</option>
+	<option type="screenRatio">
+		2
+	</option>
+	<option type="fullscreen">
+		0
+	</option>
+</settings>

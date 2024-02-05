@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<translation>
+<!-- Main Menu -->
+	<menuMain language="Francais" id="MenuMainA">
+		Nouveau jeu
+	</menuMain>
+	<menuMain language="English" id="MenuMainA">
+		New game
+	</menuMain>
+	<menuMain language="Francais" id="MenuMainB">
+		Tableau des scores
+	</menuMain>
+	<menuMain language="English" id="MenuMainB">
+		Leaderboard
+	</menuMain>
+	<menuMain language="Francais" id="MenuMainC">
+		Langue:Francais
+	</menuMain>
+	<menuMain language="English" id="MenuMainC">
+		Language:English
+	</menuMain>
+	<menuMain language="Francais" id="MenuMainD">
+		Réglages
+	</menuMain>
+	<menuMain language="English" id="MenuMainD">
+		Settings
+	</menuMain>
+	<menuMain language="Francais" id="MenuMainE">
+		Quitter le jeu
+	</menuMain>
+	<menuMain language="English" id="MenuMainE">
+		Quit game
+	</menuMain>
+
+<!-- Settings Menu -->
+	<settings language="Francais" id="optionA">
+		Langue
+	</settings>
+	<settings language="English" id="optionA">
+		Language
+	</settings>
+	<settings language="Francais" id="optionB">
+		Volume
+	</settings>
+	<settings language="English" id="optionB">
+		Volume
+	</settings>
+	<settings language="Francais" id="optionC">
+		ratio écran
+	</settings>
+	<settings language="English" id="optionC">
+		Screen ratio
+	</settings>
+	<settings language="Francais" id="optionD">
+		Plein écran
+	</settings>
+	<settings language="English" id="optionD">
+		Fullscreen
+	</settings>
+	<settings language="Francais" id="optionE">
+		---
+	</settings>
+	<settings language="English" id="optionE">
+		---
+	</settings>
+	<settings language="Francais" id="optionF">
+		TOUCHE GAUCHE
+	</settings>
+	<settings language="English" id="optionF">
+		LEFT KEY
+	</settings>
+	<settings language="Francais" id="optionG">
+		TOUCHE DROITE
+	</settings>
+	<settings language="English" id="optionG">
+		RIGHT KEY
+	</settings>
+	<settings language="Francais" id="optionH">
+		TOUCHE UP
+	</settings>
+	<settings language="English" id="optionH">
+		UP KEY
+	</settings>
+	<settings language="Francais" id="optionI">
+		TOUCHE BAS
+	</settings>
+	<settings language="English" id="optionI">
+		DOWN KEY
+	</settings>
+	<settings language="Francais" id="optionJ">
+		TOUCHE SAUT
+	</settings>
+	<settings language="English" id="optionJ">
+		JUMP KEY
+	</settings>
+	<settings language="Francais" id="optionK">
+		TOUCHE ATTAQUE
+	</settings>
+	<settings language="English" id="optionK">
+		ATTACK KEY
+	</settings>
+	<settings language="Francais" id="optionL">
+		TOUCHE SPÉCIAL
+	</settings>
+	<settings language="English" id="optionL">
+		SPECIAL KEY
+	</settings>
+	<settings language="Francais" id="optionM">
+		VOIR MANETTE
+	</settings>
+	<settings language="English" id="optionM">
+		SHOW PAD
+	</settings>
+
+<!-- Pause Menu -->
+	<pause language="Francais" id="pauseA">
+		Reprendre
+	</pause>
+	<pause language="English" id="pauseA">
+		Resume
+	</pause>
+	<pause language="Francais" id="pauseB">
+		Réglages
+	</pause>
+	<pause language="English" id="pauseB">
+		Settings
+	</pause>
+	<pause language="Francais" id="pauseC">
+		menu principal
+	</pause>
+	<pause language="English" id="pauseC">
+		Go back to main menu
+	</pause>
+	<pause language="Francais" id="pauseD">
+		Quitter le Jeu
+	</pause>
+	<pause language="English" id="pauseD">
+		Exit Game
+	</pause>
+
+<!-- ACTION PAD -->
+	<actionPad language="Francais" id="actionPadA">
+		Se déplacer
+	</actionPad>
+	<actionPad language="English" id="actionPadA">
+		Move
+	</actionPad>
+	<actionPad language="Francais" id="actionPadB">
+		Sauter
+	</actionPad>
+	<actionPad language="English" id="actionPadB">
+		Jump
+	</actionPad>
+	<actionPad language="Francais" id="actionPadC">
+		Attaquer
+	</actionPad>
+	<actionPad language="English" id="actionPadC">
+		Attack
+	</actionPad>
+	<actionPad language="Francais" id="actionPadD">
+		Spécial
+	</actionPad>
+	<actionPad language="English" id="actionPadD">
+		Special
+	</actionPad>
+
+<!-- Game UI -->
+	<game language="Francais" id="life">
+		VIE
+	</game>
+	<game language="English" id="life">
+		LIFE
+	</game>
+	<game language="Francais" id="score">
+		SCORE
+	</game>
+	<game language="English" id="score">
+		SCORE
+	</game>
+	<game language="Francais" id="killed">
+		TUES
+	</game>
+	<game language="English" id="killed">
+		KILL
+	</game>
+	<game language="Francais" id="missed">
+		RATE
+	</game>
+	<game language="English" id="missed">
+		MISS
+	</game>
+	<game language="Francais" id="level">
+		NIVEAU
+	</game>
+	<game language="English" id="level">
+		LEVEL
+	</game>
+	
+<!-- Other texts -->
+	<other language="Francais" id="pause">
+		Pause
+	</other>
+	<other language="English" id="pause">
+		Pause
+	</other>
+	<other language="Francais" id="gameover">
+		FIN DU JEU !
+	</other>
+	<other language="English" id="gameover">
+		GAME OVER !
+	</other>
+	<other language="Francais" id="scorefinal">
+		SCORE FINAL
+	</other>
+	<other language="English" id="scorefinal">
+		FINAL SCORE
+	</other>
+	<other language="Francais" id="scoreEnter">
+		Veuillez saisir votre pseudo
+	</other>
+	<other language="English" id="scoreEnter">
+		Please enter your nickname
+	</other>
+	<other language="Francais" id="loading">
+		;chargement
+	</other>
+	<other language="English" id="loading">
+		;loading
+	</other>
+	<other language="Francais" id="connection">
+		erreur de connexion...
+	</other>
+	<other language="English" id="connection">
+		connection error...
+	</other>
+	<other language="Francais" id="powerup1">
+		Sante +1
+	</other>
+	<other language="English" id="powerup1">
+		Life +1
+	</other>
+	<other language="Francais" id="powerup2">
+		Degats x
+	</other>
+	<other language="English" id="powerup2">
+		Dommages x
+	</other>
+	<other language="Francais" id="powerup3">
+		Attaque Speciale
+	</other>
+	<other language="English" id="powerup3">
+		Special Attack
+	</other>
+	<other language="Francais" id="powerup4">
+		Vie +1
+	</other>
+	<other language="English" id="powerup4">
+		Lives +1
+	</other>
+	<other language="Francais" id="powerup5">
+		Double Shuriken
+	</other>
+	<other language="English" id="powerup5">
+		Double Shuriken
+	</other>
+	<other language="Francais" id="keyChanging">
+		attente touche
+	</other>
+	<other language="English" id="keyChanging">
+		press key
+	</other>
+	<other language="Francais" id="edit">
+		;éditer
+	</other>
+	<other language="English" id="edit">
+		;edit
+	</other>
+</translation>

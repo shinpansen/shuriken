@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="shuriken" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/shuriken" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-std=c++11" />
+					<Add option="-g" />
+					<Add option="-DSFML_STATIC" />
+					<Add directory="C:/TDM-GCC-32/include/SFML" />
+					<Add directory="C:/TDM-GCC-32/include/Box2D" />
+				</Compiler>
+				<Linker>
+					<Add option="-lBox2D" />
+					<Add option="-lsfml-window" />
+					<Add option="-lsfml-graphics" />
+					<Add option="-lsfml-audio" />
+					<Add option="-lsfml-system" />
+					<Add option="-lsfml-network" />
+					<Add directory="C:/TDM-GCC-32/lib/SFML" />
+					<Add directory="C:/TDM-GCC-32/lib/Box2D" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/shuriken" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add option="-std=c++11" />
+					<Add directory="C:/TDM-GCC-32/include/SFML" />
+					<Add directory="C:/TDM-GCC-32/include/Box2D" />
+				</Compiler>
+				<Linker>
+					<Add option="-lBox2D" />
+					<Add library="sfml-window" />
+					<Add library="sfml-graphics" />
+					<Add library="sfml-audio" />
+					<Add library="sfml-system" />
+					<Add directory="C:/TDM-GCC-32/lib/SFML" />
+					<Add directory="C:/TDM-GCC-32/lib/Box2D" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-std=c++11" />
+			<Add option="-g" />
+		</Compiler>
+		<Unit filename="UI/mainGame.cpp" />
+		<Unit filename="UI/mainGame.hpp" />
+		<Unit filename="UI/menuList.cpp" />
+		<Unit filename="UI/menuList.hpp" />
+		<Unit filename="UI/scoreManager.cpp" />
+		<Unit filename="UI/scoreManager.hpp" />
+		<Unit filename="characters/blueTank.cpp" />
+		<Unit filename="characters/blueTank.hpp" />
+		<Unit filename="characters/boss.cpp" />
+		<Unit filename="characters/boss.hpp" />
+		<Unit filename="characters/clown.cpp" />
+		<Unit filename="characters/clown.hpp" />
+		<Unit filename="characters/enemy.cpp" />
+		<Unit filename="characters/enemy.hpp" />
+		<Unit filename="characters/greenTank.cpp" />
+		<Unit filename="characters/greenTank.hpp" />
+		<Unit filename="characters/hero.cpp" />
+		<Unit filename="characters/hero.hpp" />
+		<Unit filename="characters/redTank.cpp" />
+		<Unit filename="characters/redTank.hpp" />
+		<Unit filename="effects/effects.cpp" />
+		<Unit filename="effects/effects.hpp" />
+		<Unit filename="effects/projectile.cpp" />
+		<Unit filename="effects/projectile.hpp" />
+		<Unit filename="effects/sound.cpp" />
+		<Unit filename="effects/sound.hpp" />
+		<Unit filename="environment/maps.cpp" />
+		<Unit filename="environment/maps.hpp" />
+		<Unit filename="main.cpp" />
+		<Unit filename="objects/arrowBlock.cpp" />
+		<Unit filename="objects/arrowBlock.hpp" />
+		<Unit filename="objects/blocker.cpp" />
+		<Unit filename="objects/blocker.hpp" />
+		<Unit filename="objects/bomb.cpp" />
+		<Unit filename="objects/bomb.hpp" />
+		<Unit filename="objects/fire.cpp" />
+		<Unit filename="objects/fire.hpp" />
+		<Unit filename="objects/platform.cpp" />
+		<Unit filename="objects/platform.hpp" />
+		<Unit filename="objects/powerups.cpp" />
+		<Unit filename="objects/powerups.hpp" />
+		<Unit filename="objects/speedwalk.cpp" />
+		<Unit filename="objects/speedwalk.hpp" />
+		<Unit filename="resource.rc">
+			<Option compilerVar="WINDRES" />
+		</Unit>
+		<Unit filename="tinyXML/tinystr.cpp" />
+		<Unit filename="tinyXML/tinystr.h" />
+		<Unit filename="tinyXML/tinyxml.cpp" />
+		<Unit filename="tinyXML/tinyxml.h" />
+		<Unit filename="tinyXML/tinyxmlerror.cpp" />
+		<Unit filename="tinyXML/tinyxmlparser.cpp" />
+		<Unit filename="tools/Box2DTools.cpp" />
+		<Unit filename="tools/Box2DTools.hpp" />
+		<Unit filename="tools/animation.cpp" />
+		<Unit filename="tools/animation.hpp" />
+		<Unit filename="tools/files.cpp" />
+		<Unit filename="tools/files.hpp" />
+		<Unit filename="tools/input.cpp" />
+		<Unit filename="tools/input.hpp" />
+		<Unit filename="tools/pixelFont.cpp" />
+		<Unit filename="tools/pixelFont.hpp" />
+		<Unit filename="tools/settings.cpp" />
+		<Unit filename="tools/settings.hpp" />
+		<Unit filename="tools/utils.cpp" />
+		<Unit filename="tools/utils.hpp" />
+		<Unit filename="tools/xmlReader.cpp" />
+		<Unit filename="tools/xmlReader.hpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

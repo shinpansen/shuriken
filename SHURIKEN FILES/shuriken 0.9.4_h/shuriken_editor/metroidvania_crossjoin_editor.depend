@@ -1,0 +1,379 @@
+# depslib dependency file v1.0
+1459289804 source:e:\metroidvania_crossjoin_editor\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<math.h>
+	<vector>
+	<SFML/Graphics.hpp>
+	<SFML/Window.hpp>
+	<SFML/System.hpp>
+	<Box2D/Box2D.h>
+	"effects/effects.hpp"
+	"tools/tools.hpp"
+	"tools/files.hpp"
+	"environment/maps.hpp"
+
+1459198147 source:e:\metroidvania_crossjoin_editor\tools\tools.cpp
+	"tools.hpp"
+
+1459195142 e:\metroidvania_crossjoin_editor\tools\tools.hpp
+	<iostream>
+	<fstream>
+	<math.h>
+	<vector>
+	<SFML/Graphics.hpp>
+	"files.hpp"
+	"../environment/tree.hpp"
+
+1459180962 source:e:\metroidvania_crossjoin_editor\tools\files.cpp
+	"files.hpp"
+
+1459180952 e:\metroidvania_crossjoin_editor\tools\files.hpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<string>
+	<SFML/Graphics.hpp>
+
+1459192012 source:e:\metroidvania_crossjoin_editor\environment\maps.cpp
+	"maps.hpp"
+
+1459185846 e:\metroidvania_crossjoin_editor\environment\maps.hpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<math.h>
+	<SFML/Graphics.hpp>
+	<SFML/Window.hpp>
+	<Box2D/Box2D.h>
+	"tree.hpp"
+	"../tools/files.hpp"
+	"../tools/Box2DTools.hpp"
+
+1455137775 e:\metroidvania_crossjoin_editor\tools\box2dtools.hpp
+	<iostream>
+	<math.h>
+	<vector>
+	<SFML/Graphics.hpp>
+	<SFML/Window.hpp>
+	<Box2D/Box2D.h>
+
+1455399859 source:e:\metroidvania_crossjoin_editor\tools\box2dtools.cpp
+	"Box2DTools.hpp"
+
+1457889376 source:e:\metroidvania_crossjoin_editor\effects\effects.cpp
+	"effects.hpp"
+
+1457889319 e:\metroidvania_crossjoin_editor\effects\effects.hpp
+	<iostream>
+	<math.h>
+	<vector>
+	<SFML/Graphics.hpp>
+	<SFML/Window.hpp>
+	<Box2D/Box2D.h>
+	"../tools/animation.hpp"
+	"../tools/Box2DTools.hpp"
+	"../tools/files.hpp"
+
+1457190342 e:\metroidvania_crossjoin_editor\tools\animation.hpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	<SFML/Window.hpp>
+
+1459180077 source:e:\metroidvania_crossjoin_editor\environment\tree.cpp
+	"tree.hpp"
+
+1459180059 e:\metroidvania_crossjoin_editor\environment\tree.hpp
+	<iostream>
+	<math.h>
+	<SFML/Graphics.hpp>
+	<SFML/Window.hpp>
+	<Box2D/Box2D.h>
+	"../tools/files.hpp"
+	"../tools/Box2DTools.hpp"
+	"../effects/effects.hpp"
+
+1457891380 source:e:\metroidvania_crossjoin_editor\tools\animation.cpp
+	"animation.hpp"
+
+1457889376 source:e:\shuriken_editor\effects\effects.cpp
+	"effects.hpp"
+
+1457889319 e:\shuriken_editor\effects\effects.hpp
+	<iostream>
+	<math.h>
+	<vector>
+	<SFML/Graphics.hpp>
+	<SFML/Window.hpp>
+	<Box2D/Box2D.h>
+	"../tools/animation.hpp"
+	"../tools/Box2DTools.hpp"
+	"../tools/files.hpp"
+
+1457190342 e:\shuriken_editor\tools\animation.hpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	<SFML/Window.hpp>
+
+1455137775 e:\shuriken_editor\tools\box2dtools.hpp
+	<iostream>
+	<math.h>
+	<vector>
+	<SFML/Graphics.hpp>
+	<SFML/Window.hpp>
+	<Box2D/Box2D.h>
+
+1459180952 e:\shuriken_editor\tools\files.hpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<string>
+	<SFML/Graphics.hpp>
+
+1459192012 source:e:\shuriken_editor\environment\maps.cpp
+	"maps.hpp"
+
+1459185846 e:\shuriken_editor\environment\maps.hpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<math.h>
+	<SFML/Graphics.hpp>
+	<SFML/Window.hpp>
+	<Box2D/Box2D.h>
+	"tree.hpp"
+	"../tools/files.hpp"
+	"../tools/Box2DTools.hpp"
+
+1459180059 e:\shuriken_editor\environment\tree.hpp
+	<iostream>
+	<math.h>
+	<SFML/Graphics.hpp>
+	<SFML/Window.hpp>
+	<Box2D/Box2D.h>
+	"../tools/files.hpp"
+	"../tools/Box2DTools.hpp"
+	"../effects/effects.hpp"
+
+1459180077 source:e:\shuriken_editor\environment\tree.cpp
+	"tree.hpp"
+
+1457891380 source:e:\shuriken_editor\tools\animation.cpp
+	"animation.hpp"
+
+1455399859 source:e:\shuriken_editor\tools\box2dtools.cpp
+	"Box2DTools.hpp"
+
+1459180962 source:e:\shuriken_editor\tools\files.cpp
+	"files.hpp"
+
+1474409552 source:e:\shuriken_editor\tools\tools.cpp
+	"tools.hpp"
+
+1459195142 e:\shuriken_editor\tools\tools.hpp
+	<iostream>
+	<fstream>
+	<math.h>
+	<vector>
+	<SFML/Graphics.hpp>
+	"files.hpp"
+	"../environment/tree.hpp"
+
+1479128624 source:c:\users\jda\downloads\nouveau dossier\dossier\shuriken\shuriken 0.3\shuriken_editor\effects\effects.cpp
+	"effects.hpp"
+
+1457885719 c:\users\jda\downloads\nouveau dossier\dossier\shuriken\shuriken 0.3\shuriken_editor\effects\effects.hpp
+	<iostream>
+	<math.h>
+	<vector>
+	<SFML/Graphics.hpp>
+	<SFML/Window.hpp>
+	<Box2D/Box2D.h>
+	"../tools/animation.hpp"
+	"../tools/Box2DTools.hpp"
+	"../tools/files.hpp"
+
+1457186742 c:\users\jda\downloads\nouveau dossier\dossier\shuriken\shuriken 0.3\shuriken_editor\tools\animation.hpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	<SFML/Window.hpp>
+
+1455134175 c:\users\jda\downloads\nouveau dossier\dossier\shuriken\shuriken 0.3\shuriken_editor\tools\box2dtools.hpp
+	<iostream>
+	<math.h>
+	<vector>
+	<SFML/Graphics.hpp>
+	<SFML/Window.hpp>
+	<Box2D/Box2D.h>
+
+1459180952 c:\users\jda\downloads\nouveau dossier\dossier\shuriken\shuriken 0.3\shuriken_editor\tools\files.hpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<string>
+	<SFML/Graphics.hpp>
+
+1459192012 source:c:\users\jda\downloads\nouveau dossier\dossier\shuriken\shuriken 0.3\shuriken_editor\environment\maps.cpp
+	"maps.hpp"
+
+1459185846 c:\users\jda\downloads\nouveau dossier\dossier\shuriken\shuriken 0.3\shuriken_editor\environment\maps.hpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<math.h>
+	<SFML/Graphics.hpp>
+	<SFML/Window.hpp>
+	<Box2D/Box2D.h>
+	"tree.hpp"
+	"../tools/files.hpp"
+	"../tools/Box2DTools.hpp"
+
+1459180059 c:\users\jda\downloads\nouveau dossier\dossier\shuriken\shuriken 0.3\shuriken_editor\environment\tree.hpp
+	<iostream>
+	<math.h>
+	<SFML/Graphics.hpp>
+	<SFML/Window.hpp>
+	<Box2D/Box2D.h>
+	"../tools/files.hpp"
+	"../tools/Box2DTools.hpp"
+	"../effects/effects.hpp"
+
+1459180077 source:c:\users\jda\downloads\nouveau dossier\dossier\shuriken\shuriken 0.3\shuriken_editor\environment\tree.cpp
+	"tree.hpp"
+
+1457887780 source:c:\users\jda\downloads\nouveau dossier\dossier\shuriken\shuriken 0.3\shuriken_editor\tools\animation.cpp
+	"animation.hpp"
+
+1455396259 source:c:\users\jda\downloads\nouveau dossier\dossier\shuriken\shuriken 0.3\shuriken_editor\tools\box2dtools.cpp
+	"Box2DTools.hpp"
+
+1459180962 source:c:\users\jda\downloads\nouveau dossier\dossier\shuriken\shuriken 0.3\shuriken_editor\tools\files.cpp
+	"files.hpp"
+
+1479131858 source:c:\users\jda\downloads\nouveau dossier\dossier\shuriken\shuriken 0.3\shuriken_editor\tools\tools.cpp
+	"tools.hpp"
+
+1459195142 c:\users\jda\downloads\nouveau dossier\dossier\shuriken\shuriken 0.3\shuriken_editor\tools\tools.hpp
+	<iostream>
+	<fstream>
+	<math.h>
+	<vector>
+	<SFML/Graphics.hpp>
+	"files.hpp"
+	"../environment/tree.hpp"
+
+1479131716 source:c:\users\jda\downloads\nouveau dossier\dossier\shuriken\shuriken 0.3\shuriken_editor\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<math.h>
+	<vector>
+	<SFML/Graphics.hpp>
+	<SFML/Window.hpp>
+	<SFML/System.hpp>
+	<Box2D/Box2D.h>
+	"effects/effects.hpp"
+	"tools/tools.hpp"
+	"tools/files.hpp"
+	"environment/maps.hpp"
+
+1479128624 source:c:\users\jda\downloads\nouveau dossier\dossier\shuriken\shuriken 0.7\shuriken_editor\effects\effects.cpp
+	"effects.hpp"
+
+1457885719 c:\users\jda\downloads\nouveau dossier\dossier\shuriken\shuriken 0.7\shuriken_editor\effects\effects.hpp
+	<iostream>
+	<math.h>
+	<vector>
+	<SFML/Graphics.hpp>
+	<SFML/Window.hpp>
+	<Box2D/Box2D.h>
+	"../tools/animation.hpp"
+	"../tools/Box2DTools.hpp"
+	"../tools/files.hpp"
+
+1457186742 c:\users\jda\downloads\nouveau dossier\dossier\shuriken\shuriken 0.7\shuriken_editor\tools\animation.hpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	<SFML/Window.hpp>
+
+1455134175 c:\users\jda\downloads\nouveau dossier\dossier\shuriken\shuriken 0.7\shuriken_editor\tools\box2dtools.hpp
+	<iostream>
+	<math.h>
+	<vector>
+	<SFML/Graphics.hpp>
+	<SFML/Window.hpp>
+	<Box2D/Box2D.h>
+
+1459180952 c:\users\jda\downloads\nouveau dossier\dossier\shuriken\shuriken 0.7\shuriken_editor\tools\files.hpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<string>
+	<SFML/Graphics.hpp>
+
+1459180077 source:c:\users\jda\downloads\nouveau dossier\dossier\shuriken\shuriken 0.7\shuriken_editor\environment\tree.cpp
+	"tree.hpp"
+
+1459180059 c:\users\jda\downloads\nouveau dossier\dossier\shuriken\shuriken 0.7\shuriken_editor\environment\tree.hpp
+	<iostream>
+	<math.h>
+	<SFML/Graphics.hpp>
+	<SFML/Window.hpp>
+	<Box2D/Box2D.h>
+	"../tools/files.hpp"
+	"../tools/Box2DTools.hpp"
+	"../effects/effects.hpp"
+
+1479133702 source:c:\users\jda\downloads\nouveau dossier\dossier\shuriken\shuriken 0.7\shuriken_editor\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<math.h>
+	<vector>
+	<SFML/Graphics.hpp>
+	<SFML/Window.hpp>
+	<SFML/System.hpp>
+	<Box2D/Box2D.h>
+	"effects/effects.hpp"
+	"tools/tools.hpp"
+	"tools/files.hpp"
+	"environment/maps.hpp"
+
+1459195142 c:\users\jda\downloads\nouveau dossier\dossier\shuriken\shuriken 0.7\shuriken_editor\tools\tools.hpp
+	<iostream>
+	<fstream>
+	<math.h>
+	<vector>
+	<SFML/Graphics.hpp>
+	"files.hpp"
+	"../environment/tree.hpp"
+
+1459185846 c:\users\jda\downloads\nouveau dossier\dossier\shuriken\shuriken 0.7\shuriken_editor\environment\maps.hpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<math.h>
+	<SFML/Graphics.hpp>
+	<SFML/Window.hpp>
+	<Box2D/Box2D.h>
+	"tree.hpp"
+	"../tools/files.hpp"
+	"../tools/Box2DTools.hpp"
+
+1457887780 source:c:\users\jda\downloads\nouveau dossier\dossier\shuriken\shuriken 0.7\shuriken_editor\tools\animation.cpp
+	"animation.hpp"
+
+1459180962 source:c:\users\jda\downloads\nouveau dossier\dossier\shuriken\shuriken 0.7\shuriken_editor\tools\files.cpp
+	"files.hpp"
+
+1479131858 source:c:\users\jda\downloads\nouveau dossier\dossier\shuriken\shuriken 0.7\shuriken_editor\tools\tools.cpp
+	"tools.hpp"
+
+1479721047 source:c:\users\jda\downloads\nouveau dossier\dossier\shuriken\shuriken 0.7\shuriken_editor\environment\maps.cpp
+	"maps.hpp"
+

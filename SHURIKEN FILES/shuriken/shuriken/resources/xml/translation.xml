@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<translation>
+	<menuMain language="Francais" id="MenuMainA">
+		Nouveau jeu
+	</menuMain>
+	<menuMain language="English" id="MenuMainA">
+		New game
+	</menuMain>
+	<menuMain language="Francais" id="MenuMainB">
+		Tableau des scores
+	</menuMain>
+	<menuMain language="English" id="MenuMainB">
+		Leaderboard
+	</menuMain>
+	<menuMain language="Francais" id="MenuMainC">
+		Langue : Francais
+	</menuMain>
+	<menuMain language="English" id="MenuMainC">
+		Language : English
+	</menuMain>
+	<menuMain language="Francais" id="MenuMainD">
+		Quitter le jeu
+	</menuMain>
+	<menuMain language="English" id="MenuMainD">
+		Quit game
+	</menuMain>
+</translation>

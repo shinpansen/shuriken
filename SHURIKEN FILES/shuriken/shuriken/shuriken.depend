@@ -1,0 +1,362 @@
+# depslib dependency file v1.0
+1474412865 source:e:\shuriken\characters\hero.cpp
+	"hero.hpp"
+
+1474397295 e:\shuriken\characters\hero.hpp
+	<math.h>
+	<string.h>
+	<SFML/Graphics.hpp>
+	<SFML/Window.hpp>
+	<SFML/Audio.hpp>
+	<Box2D/Box2D.h>
+	"../tools/input.hpp"
+	"../tools/Box2DTools.hpp"
+	"../tools/animation.hpp"
+	"../tools/files.hpp"
+	"../effects/effects.hpp"
+	"../effects/spells.hpp"
+	"../effects/sound.hpp"
+	"../objects/ladder.hpp"
+	"../UI/scoreManager.hpp"
+
+1462018199 e:\shuriken\tools\input.hpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<fstream>
+	<SFML/Graphics.hpp>
+	<SFML/Window.hpp>
+	"files.hpp"
+	"xmlReader.hpp"
+
+1467222983 e:\shuriken\tools\files.hpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<string>
+	<SFML/Graphics.hpp>
+
+1467308042 e:\shuriken\tools\xmlreader.hpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<fstream>
+	<vector>
+	"../tinyXML/tinyxml.h"
+	"files.hpp"
+
+1305393898 e:\shuriken\tinyxml\tinyxml.h
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<string>
+	<iostream>
+	<sstream>
+	"tinystr.h"
+
+1305393898 e:\shuriken\tinyxml\tinystr.h
+	<assert.h>
+	<string.h>
+
+1473004270 e:\shuriken\tools\box2dtools.hpp
+	<iostream>
+	<math.h>
+	<vector>
+	<typeinfo>
+	<SFML/Graphics.hpp>
+	<SFML/Window.hpp>
+	<Box2D/Box2D.h>
+
+1474276696 e:\shuriken\tools\animation.hpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	<SFML/Window.hpp>
+
+1474222360 e:\shuriken\effects\effects.hpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<cmath>
+	<math.h>
+	<vector>
+	<SFML/Graphics.hpp>
+	<SFML/Window.hpp>
+	<Box2D/Box2D.h>
+	"../tools/animation.hpp"
+	"../tools/Box2DTools.hpp"
+	"../tools/files.hpp"
+
+1467048712 e:\shuriken\effects\spells.hpp
+	<iostream>
+	<math.h>
+	<vector>
+	<random>
+	<SFML/Graphics.hpp>
+	<SFML/Window.hpp>
+	<Box2D/Box2D.h>
+	"../tools/animation.hpp"
+	"../tools/Box2DTools.hpp"
+	"../tools/files.hpp"
+	"../characters/hero.hpp"
+	"effects.hpp"
+	"sound.hpp"
+
+1470254563 e:\shuriken\effects\sound.hpp
+	<iostream>
+	<vector>
+	<random>
+	<ctime>
+	<SFML/Audio.hpp>
+	"../tools/settings.hpp"
+
+1470253282 e:\shuriken\tools\settings.hpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<string>
+	"xmlReader.hpp"
+
+1455141918 e:\shuriken\objects\ladder.hpp
+	<iostream>
+	<vector>
+	<SFML/Graphics.hpp>
+	<SFML/Window.hpp>
+
+1467058034 e:\shuriken\ui\scoremanager.hpp
+	<iostream>
+	<vector>
+	<string>
+	<SFML/Graphics.hpp>
+	"../characters/hero.hpp"
+	"../effects/sound.hpp"
+	"../tools/files.hpp"
+	"../tools/xmlReader.hpp"
+
+1474412166 source:e:\shuriken\effects\effects.cpp
+	"effects.hpp"
+
+1470254875 source:e:\shuriken\effects\sound.cpp
+	"sound.hpp"
+
+1474309982 source:e:\shuriken\effects\spells.cpp
+	"spells.hpp"
+
+1474412083 source:e:\shuriken\environment\maps.cpp
+	"maps.hpp"
+
+1474397221 e:\shuriken\environment\maps.hpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<math.h>
+	<SFML/Graphics.hpp>
+	<SFML/Window.hpp>
+	<Box2D/Box2D.h>
+	"../tools/files.hpp"
+	"../tools/Box2DTools.hpp"
+	"../objects/ladder.hpp"
+	"../effects/effects.hpp"
+	"tree.hpp"
+
+1459180106 e:\shuriken\environment\tree.hpp
+	<iostream>
+	<math.h>
+	<SFML/Graphics.hpp>
+	<SFML/Window.hpp>
+	<Box2D/Box2D.h>
+	"../tools/files.hpp"
+	"../tools/Box2DTools.hpp"
+	"../effects/effects.hpp"
+
+1459723912 source:e:\shuriken\environment\tree.cpp
+	"tree.hpp"
+
+1455142212 source:e:\shuriken\objects\ladder.cpp
+	"ladder.hpp"
+
+1457809226 source:e:\shuriken\resource.rc
+
+1305393898 source:e:\shuriken\tinyxml\tinystr.cpp
+	"tinystr.h"
+
+1305393898 source:e:\shuriken\tinyxml\tinyxml.cpp
+	<ctype.h>
+	<sstream>
+	<iostream>
+	"tinyxml.h"
+
+1305393898 source:e:\shuriken\tinyxml\tinyxmlerror.cpp
+	"tinyxml.h"
+
+1305393898 source:e:\shuriken\tinyxml\tinyxmlparser.cpp
+	<ctype.h>
+	<stddef.h>
+	"tinyxml.h"
+	<windows.h>
+
+1474277878 source:e:\shuriken\tools\animation.cpp
+	"animation.hpp"
+
+1473005558 source:e:\shuriken\tools\box2dtools.cpp
+	"Box2DTools.hpp"
+
+1461160448 source:e:\shuriken\tools\camera.cpp
+	"camera.hpp"
+
+1457215574 e:\shuriken\tools\camera.hpp
+	<iostream>
+	<math.h>
+	<SFML/Graphics.hpp>
+	<SFML/Window.hpp>
+	<Box2D/Box2D.h>
+	"../characters/hero.hpp"
+
+1474412021 source:e:\shuriken\tools\files.cpp
+	"files.hpp"
+
+1462621453 source:e:\shuriken\tools\input.cpp
+	"input.hpp"
+
+1470253350 source:e:\shuriken\tools\settings.cpp
+	"settings.hpp"
+
+1470254021 source:e:\shuriken\tools\xmlreader.cpp
+	"xmlReader.hpp"
+
+1466890974 source:e:\shuriken\ui\heroselector.cpp
+	"heroSelector.hpp"
+
+1466890678 e:\shuriken\ui\heroselector.hpp
+	<iostream>
+	<vector>
+	<SFML/Graphics.hpp>
+	"menuSelector.hpp"
+	"../tools/input.hpp"
+	"../tools/files.hpp"
+	"../tools/xmlReader.hpp"
+	"../effects/sound.hpp"
+	"keyboardKey.hpp"
+
+1462457378 e:\shuriken\ui\menuselector.hpp
+	<iostream>
+	<vector>
+	<SFML/Graphics.hpp>
+	"../tools/input.hpp"
+
+1462713866 e:\shuriken\ui\keyboardkey.hpp
+	<iostream>
+	<vector>
+	<string>
+	<math.h>
+	<SFML/Graphics.hpp>
+	"../tools/files.hpp"
+
+1462714358 source:e:\shuriken\ui\keyboardkey.cpp
+	"keyboardKey.hpp"
+
+1474412311 source:e:\shuriken\ui\maingame.cpp
+	"mainGame.hpp"
+
+1474409314 e:\shuriken\ui\maingame.hpp
+	<iostream>
+	<vector>
+	<SFML/Graphics.hpp>
+	<SFML/Window.hpp>
+	<SFML/System.hpp>
+	<Box2D/Box2D.h>
+	"../tools/Box2DTools.hpp"
+	"../tools/input.hpp"
+	"../tools/xmlReader.hpp"
+	"../tools/settings.hpp"
+	"../effects/effects.hpp"
+	"../effects/spells.hpp"
+	"../effects/sound.hpp"
+	"../characters/hero.hpp"
+	"../environment/maps.hpp"
+	"../environment/tree.hpp"
+	"../objects/ladder.hpp"
+	"menuList.hpp"
+	"scoreManager.hpp"
+
+1474403126 e:\shuriken\ui\menulist.hpp
+	<iostream>
+	<vector>
+	<SFML/Graphics.hpp>
+	"../tools/xmlReader.hpp"
+	"../tools/input.hpp"
+	"../tools/files.hpp"
+
+1474403133 e:\shuriken\ui\menuoptions.hpp
+	<iostream>
+	<vector>
+	<SFML/Graphics.hpp>
+	"menuList.hpp"
+	"../tools/xmlReader.hpp"
+	"../tools/input.hpp"
+	"../tools/files.hpp"
+
+1462027288 e:\shuriken\ui\menupad.hpp
+	<iostream>
+	<vector>
+	<SFML/Graphics.hpp>
+	"../tools/xmlReader.hpp"
+	"../tools/files.hpp"
+	"../tools/input.hpp"
+
+1466890774 e:\shuriken\ui\menuheroselector.hpp
+	<iostream>
+	<vector>
+	<string>
+	<SFML/Graphics.hpp>
+	"heroSelector.hpp"
+	"menuList.hpp"
+	"keyboardKey.hpp"
+	"../tools/files.hpp"
+	"../tools/input.hpp"
+	"../tools/xmlReader.hpp"
+	"../effects/sound.hpp"
+
+1466890796 source:e:\shuriken\ui\menuheroselector.cpp
+	"menuHeroSelector.hpp"
+
+1474409293 source:e:\shuriken\ui\menulist.cpp
+	"menuList.hpp"
+
+1474403199 source:e:\shuriken\ui\menuoptions.cpp
+	"menuOptions.hpp"
+
+1467307697 source:e:\shuriken\ui\menupad.cpp
+	"menuPad.hpp"
+
+1462457408 source:e:\shuriken\ui\menuselector.cpp
+	"menuSelector.hpp"
+
+1467059561 source:e:\shuriken\ui\scoremanager.cpp
+	"scoreManager.hpp"
+
+1474406077 source:e:\shuriken\main.cpp
+	<stdlib.h>
+	<iostream>
+	<time.h>
+	<SFML/Graphics.hpp>
+	<SFML/Window.hpp>
+	<SFML/System.hpp>
+	<Box2D/Box2D.h>
+	"tools/Box2DTools.hpp"
+	"tools/input.hpp"
+	"tools/xmlReader.hpp"
+	"tools/settings.hpp"
+	"effects/effects.hpp"
+	"effects/spells.hpp"
+	"effects/sound.hpp"
+	"characters/hero.hpp"
+	"environment/maps.hpp"
+	"environment/tree.hpp"
+	"objects/ladder.hpp"
+	"UI/menuList.hpp"
+	"UI/mainGame.hpp"
+
